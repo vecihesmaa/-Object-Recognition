@@ -1,8 +1,8 @@
-### CIFAR-10 Image Classification with CNN
+# CIFAR-10 Image Classification with CNN
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset.
 
-# Project Overview
+### Project Overview
 The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. 
 
 The classes are:
